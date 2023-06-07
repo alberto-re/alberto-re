@@ -1,16 +1,12 @@
-### Hi there 👋
+ <pre>
+ __  __          ___    ___                 __      __                 ___       __  __
+/\ \/\ \        /\_ \  /\_ \               /\ \  __/\ \               /\_ \     /\ \/\ \
+\ \ \_\ \     __\//\ \ \//\ \     ___      \ \ \/\ \ \ \    ___   _ __\//\ \    \_\ \ \ \
+ \ \  _  \  /'__`\\ \ \  \ \ \   / __`\     \ \ \ \ \ \ \  / __`\/\`'__\\ \ \   /'_` \ \ \
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__   \ \ \_/ \_\ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ \_\
+   \ \_\ \_\ \____\/\____\/\____\ \____/\ \   \ `\___x___/\ \____/\ \_\  /\____\ \___,_\/\_\
+    \/_/\/_/\/____/\/____/\/____/\/___/\ \/    '\/__//__/  \/___/  \/_/  \/____/\/__,_ /\/_/
+                                        \/
+</pre>
 
-<!--
-**alberto-re/alberto-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[albertore.io](https://albertore.io) | [GitHub](https://github.com/alberto-re) | [Stack Overflow](https://stackoverflow.com/users/2355120/alberto-re) | [Instagram](https://www.instagram.com/_alberto_re_/) | [LinkedIn](https://www.linkedin.com/in/alberto-re-61338a/)
